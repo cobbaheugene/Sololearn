@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\SOLOLEARN PROJECTS\Palindrome Checker\Debug\Palindrome Checker.exe
+C:\Users\USER\Desktop\SOLOLEARN PROJECTS\Palindrome Checker\Debug\Palindrome Checker.pdb

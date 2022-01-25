@@ -1,0 +1,3 @@
+﻿  Palindrome Checker.cpp
+C:\Users\USER\Desktop\SOLOLEARN PROJECTS\Palindrome Checker\Palindrome Checker.cpp(9,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Palindrome Checker.vcxproj -> C:\Users\USER\Desktop\SOLOLEARN PROJECTS\Palindrome Checker\Debug\Palindrome Checker.exe
